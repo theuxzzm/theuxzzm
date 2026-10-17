@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**theuxzzm/theuxzzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img width="735" height="245" alt="image" src="https://github.com/user-attachments/assets/3ab20a17-b5ab-450a-a530-b3f416325d73" />
+</div>
 
-Here are some ideas to get you started:
+### `Matheus Castro`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <strong>**Desenvolvimento de Software • Automação • Design**</strong>
+</p>
+
+```json
+{
+  "nome":"Matheus Castro",
+  "Localização": Ibirité, MG - Brasil",
+  "stack": ["Python", "Selenium", "HTML", "CSS", "Java"],
+  "Ferramentas": ["Visual Studio Code", "IntelliJ IDEA", "Git"],
+  "Estudando": ["SQL", "Java"],
+}
+```
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js" alt="Python, Java, HTML, CSS e JavaScript" />
+</div>
