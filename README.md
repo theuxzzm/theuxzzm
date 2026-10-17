@@ -6,7 +6,7 @@
 ### `Matheus Castro`
 
 <p>
-  <strong>Desenvolvimento de Software • Automação • Design</strong>
+  <strong>Desenvolvimento de Software • Desenvolvimento Web • Automação</strong>
 </p>
 
 ```json
