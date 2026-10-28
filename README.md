@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="1198" height="573" alt="image" src="https://github.com/user-attachments/assets/88a53644-4225-44dc-8628-1bcb7a1369ca" />
+  <img width="900" height="573" alt="image" src="https://github.com/user-attachments/assets/88a53644-4225-44dc-8628-1bcb7a1369ca" />
 </div>
 
 ### `Matheus Castro`
